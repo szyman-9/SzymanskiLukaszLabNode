@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9d026071-63e8-4088-93c9-e9b34fed8912" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency2.js" beforeDir="false" afterPath="$PROJECT_DIR$/currency2.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +12,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,6 +65,8 @@
       <workItem from="1607376241613" duration="15000" />
       <workItem from="1607508823686" duration="3830000" />
       <workItem from="1607980225439" duration="29000" />
+      <workItem from="1608113159264" duration="3548000" />
+      <workItem from="1610440091000" duration="240000" />
     </task>
     <servers />
   </component>
@@ -68,6 +78,10 @@
       <screen x="0" y="23" width="1680" height="966" />
     </state>
     <state x="304" y="168" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.966@0.23.1680.966" timestamp="1606904674831" />
+    <state x="961" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1608115528930">
+      <screen x="0" y="23" width="1680" height="966" />
+    </state>
+    <state x="961" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.966@0.23.1680.966" timestamp="1608115528930" />
     <state x="927" y="235" width="670" height="676" key="search.everywhere.popup" timestamp="1606906860616">
       <screen x="0" y="23" width="1680" height="966" />
     </state>

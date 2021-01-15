@@ -10,15 +10,15 @@ Currency.prototype.euroToPln = function(){
     return roundTwoDecimals(this.number * 4.44);
 }
 
-Currency.prototype.dollarsToPln = function(dollars){
+Currency.prototype.dollarsToPln = function(){
     return roundTwoDecimals(this.number * 3.64);
 }
 
-Currency.prototype.rubleToPln = function(ruble){
+Currency.prototype.rubleToPln = function(){
     return roundTwoDecimals(this.number * 0.05);
 }
 
-Currency.prototype.nokToPln = function(nok){
+Currency.prototype.nokToPln = function(){
     return roundTwoDecimals(this.number * 0.42);
 }
 
